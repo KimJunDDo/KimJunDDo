@@ -32,7 +32,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="60" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="60"/></a>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="60" /></a>  
-  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="60" /></a>
   <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="60" /></a>
 </div>
 
