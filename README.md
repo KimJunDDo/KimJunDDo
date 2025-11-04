@@ -5,9 +5,9 @@
 <h1 align="center">
   Connect if you have something interesting to say!
 </h1>
-<h2 align='center'>
+<h3 align='center'>
   ご連絡は下記のSNSにてお願いいたします。
-</h2>
+</h3>
 
 <p align="center">
 <a href="https://www.instagram.com/junddo__/">
