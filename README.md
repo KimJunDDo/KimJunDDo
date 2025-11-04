@@ -11,10 +11,10 @@
 
 <p align="center">
 <a href="https://www.instagram.com/junddo__/">
-  <a href="https://reactjs.org/](https://www.instagram.com/junddo__/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50" /></a>   
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50" /></a>   
 </a>
 <a href="https://www.linkedin.com/in/%EC%A4%80%EC%84%9D-%EA%B9%80-1899a4387/">
-  <a href="https://reactjs.org/](https://www.linkedin.com/in/%EC%A4%80%EC%84%9D-%EA%B9%80-1899a4387)" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="50" /></a>   
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="50" /></a>   
 </a>
 </p>
 
