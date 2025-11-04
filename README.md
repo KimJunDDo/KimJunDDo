@@ -28,6 +28,7 @@
 ### Frontend  
 <div align="center">  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="60" /></a>   
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="Redux" height="60" /></a>   
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="60" /></a>   
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="60" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="60"/></a>  
@@ -43,8 +44,9 @@
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="60" /></a>  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="60" /></a>  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySql" height="60" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gcp" alt="GCP" height="60" /></a>  
-  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" /></a>  
+  <a href="https://cloud.google.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gcp" alt="GCP" height="60" /></a>  
+  <a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" /></a> 
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=svg" alt="SVG" height="60" /></a>
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi" alt="RaspberryPi" height="60" /></a>  
   <a href="https://supabase.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="60" /></a>
   <a href="https://supabase.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="60" /></a>
@@ -52,6 +54,7 @@
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="60" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="CPP" height="60" /></a> 
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="60" /></a>
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=r" alt="R" height="60" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -64,10 +67,14 @@
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
   <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" height="50" /></a>  
   <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="50" /></a>    
-  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a> 
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" height="50" /></a>
+  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=idea" alt="Idea" height="50" /></a>
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VScode" height="60" /></a>
+  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=notion" alt="Notion" height="50" /></a> 
+  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=npm" alt="NPM" height="50" /></a> 
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=stackoverslow" alt="Stack Over Flow" height="50" /></a>
   <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=googlecloud" alt="Google Cloud" height="50" /></a>
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gmail" alt="Google Mail" height="50" /></a>
 </div>
 
 </td></tr>
